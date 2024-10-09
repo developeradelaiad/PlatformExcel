@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="BTN">
+        <item name="android:backgroundTint">#898787</item>
+        <item name="android:layout_marginVertical">10dp</item>
+        <item name="android:textColor">@color/black</item>
+    </style>
+
+    <style name="RB">
+        <item name="android:textStyle">bold|italic</item>
+        <item name="android:fontFamily">cursive</item>
+        <item name="android:textSize">25dp</item>
+        <item name="android:layout_marginHorizontal">10dp</item>
+    </style>
+</resources>
